@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { Provider } from 'react-redux';
 import { BrowserRouter } from 'react-router-dom';
-import {store} from './reducer/store';
+import { store } from './reducer/store';
 import theme from './theme'
 
 import { ColorModeScript } from '@chakra-ui/react'
