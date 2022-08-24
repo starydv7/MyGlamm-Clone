@@ -1,11 +1,13 @@
 
 import './App.css';
-import Navbar from './components/Navbar';
+
+import AllRoutes from './pages/AllRoutes';
+import Payment from './pages/Payment';
 
 function App() {
   return (
     <div className="App">
-   <Navbar/>
+      <AllRoutes/>
     </div>
   );
 }
