@@ -1,9 +1,9 @@
 import React from "react";
 import { Box, Flex, Image, Text, AspectRatio, Link } from "@chakra-ui/react";
-import Check from "../mainCrausel/Check";
+import Check from "../Crausal/Check";
 import "./HomePagecss/homePage.css";
 import "../App.css";
-import ProductCarousel from "../mainCrausel/ProductCarousel";
+import ProductCarousel from "../Crausal/ProductCarousel";
 import {
   CATEGORIES,
   kitsAndCombo,
