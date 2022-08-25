@@ -12,7 +12,7 @@ import {
   WALLETOFFERS,
   BANKPARTNER,
 } from "./HomePagecss/homepageData";
-import {Link as RouteLink} from "react-router-dom";
+import {Link as RouteLink , useLocation} from "react-router-dom";
 
 
 
@@ -26,27 +26,33 @@ const Home = () => {
       <Box w="100%" p={4} color="white">
         <Check />
       </Box>
+
       <Box padding={"30px"}>
         <Flex
           direction={"column"}
           margin="auto"
           width="70%"
-          // border={"1px solid red"}
+          // border={"10px solid red"}
+
           gap={"20px"}
         >
           <Box>
+          <RouteLink to="blog/1" >
             <Image
               src="https://files.myglamm.com/site-images/original/proposition-banner-2240x614_1.jpg"
               width={"1100px"}
-              height="250px"
-            ></Image>
+              height="250px">
+              </Image>
+            </RouteLink>
           </Box>
           <Box>
+          <RouteLink to="blog/2" >
             <Image
               src="https://files.myglamm.com/site-images/original/1920x527-(6).jpg"
               width={"1100px"}
               height="250px"
             ></Image>
+            </RouteLink>
           </Box>
         </Flex>
       </Box>
@@ -99,7 +105,9 @@ const Home = () => {
             />
           </Text>
         </Box>
+        <h1>fkdjn</h1>
         <ProductCarousel />
+        <h1>fkdjn</h1>
       </Box>
       {/*  */}
       <Box>

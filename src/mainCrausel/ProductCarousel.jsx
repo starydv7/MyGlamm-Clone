@@ -49,7 +49,6 @@ export default function ProductCarousel() {
 
   return (
     <Box
-    
       margin={"auto"}
       position={"relative"}
       height={"550px"}

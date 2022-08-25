@@ -374,8 +374,8 @@ const Footer = () => {
             <form action="">
               <label for="">SUBSCRIBE FOR MYGLAMM EMAILS</label>
               <br />
-              <input type="text" placeholder="Please enter valid email ID" />
-              <button>SUBSCRIBE NOW</button>
+              <input className='subscribeColor'  type="text" placeholder="Please enter valid email ID" />
+              <button style={{border: '1px solid',backgroundColor: 'red' ,width: '150px'}} >SUBSCRIBE NOW</button>
             </form>
           </div>
           <div className="social">

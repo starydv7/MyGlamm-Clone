@@ -17,6 +17,7 @@ import NotFound from './NotFound';
 import Navbarpayment from '../components/NavbarPayment';
 import ProductItem from '../components/products/Product';
 import SingleProduct from '../components/products/SingleProduct';
+import Blog from './HomePagecss/Blog';
 
 
 
@@ -37,6 +38,8 @@ const AllRoutes = () => {
             <Route path='/payment' element={<><Navbarpayment/><Payment/><FooterC/></>}></Route>
             <Route path='*' element={<><Navbar/><NotFound/><Footer/></>}></Route>
             <Route path='/payment' element={<><Navbarpayment/><Payment/></>}/>
+            <Route path="/blog/:id" element={<Blog />} />
+
         </Routes>
   
     </Box>

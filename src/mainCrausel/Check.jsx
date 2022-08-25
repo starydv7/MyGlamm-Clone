@@ -32,9 +32,10 @@ export default function CCheck() {
   const cards = [
     'https://files.myglamm.com/site-images/original/SK-Survey-1920x527_1.jpg',
     'https://live.staticflickr.com/65535/49213180047_a4734ec97e_b.jpg',
-    'https://files.myglamm.com/site-images/original/Homepage-desktop-lipstikcks.jpg',
+    // 'https://files.myglamm.com/site-images/original/Homepage-desktop-lipstikcks.jpg',
     'https://files.myglamm.com/site-images/original/1920-x-527.jpg',
-    'https://files.myglamm.com/site-images/original/1920x527.jpg'
+    // 'https://files.myglamm.com/site-images/original/1920x527.jpg'
+    'https://files.myglamm.com/site-images/original/Desktop_1.jpg'
   ];
 
   return (

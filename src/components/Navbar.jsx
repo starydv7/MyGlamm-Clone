@@ -20,6 +20,7 @@ import SignupChakra from '../signup/SignupChakra'
 import { useSelector } from 'react-redux/es/exports'
 import Profile from '../signup/Profile'
 import { useNavigate } from 'react-router-dom'
+import Searchbar2 from './Searchbar2'
 
 const Navbar = () => {
   
@@ -34,6 +35,7 @@ console.log(isAuth);
     <Flex width='70%' direction='row' height='60px' margin='auto' pt='12px' >
       <Box> <Logo/> </Box>
       <Box> <SearchBar/> </Box>
+      {/* <Box> <Searchbar2/> </Box> */}
       <Spacer/>
       <Flex justifyContent={"space-between"} width="100px" >
 
