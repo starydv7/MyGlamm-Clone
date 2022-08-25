@@ -16,10 +16,10 @@ const Footer = () => {
             <h4>BATH &amp;BODY</h4>
           </li>
           <li>
-            <a href="/buy/bath-and-body/body/face-washes">Face Washes</a>
+            <a href="/buy/bath-and-body/body/face-washes">Face Wash</a>
           </li>
           <li>
-            <a href="/buy/bath-and-body/body/shower-gels">Shower Gels</a>
+            <a href="/buy/bath-and-body/body/shower-gels">Shower Gel</a>
           </li>
           <li>
             <a href="/buy/bath-and-body/body/body-moisturizers">
@@ -27,7 +27,7 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="/buy/bath-and-body/body/soaps">Soaps</a>
+            <a href="/buy/bath-and-body/body/soaps">Soap</a>
           </li>
           <li>
             <a href="/buy/bath-and-body/body/hand-care">Hand Care</a>
