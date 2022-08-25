@@ -20,7 +20,6 @@ import SignupChakra from '../signup/SignupChakra'
 import { useSelector } from 'react-redux/es/exports'
 import Profile from '../signup/Profile'
 import { useNavigate } from 'react-router-dom'
-import Searchbar2 from './Searchbar2'
 
 const Navbar = () => {
   
