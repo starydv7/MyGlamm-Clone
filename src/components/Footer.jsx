@@ -56,14 +56,16 @@ const Footer = () => {
             </a>
           </li>
           <li>
+          
             <a href="/buy/sanitizing-care/body/face-washes">Face Washes</a>
           </li>
           <li>
             <a href="/buy/sanitizing-care/body/shower-gels">Shower Gels</a>
           </li>
           <li>
-            <a href="/buy/sanitizing-care/body/body-moisturizers">
-              Body Moisturizers
+
+ <a href="/buy/sanitizing-care/body/body-moisturizers">
+ Body Moisturizers
             </a>
           </li>
           <li>
@@ -197,7 +199,7 @@ const Footer = () => {
             <a href="/buy/makeup/face/blush">Blush</a>
           </li>
           <li>
-            <a href="/buy/makeup/face/bronzer">Bronzer</a>
+            <a href="/buy/makeup/face/bronzer">Bronzers</a>
           </li>
           <li>
             <a href="/buy/makeup/face/cheek-stain">Cheek Stain</a>
@@ -214,7 +216,7 @@ const Footer = () => {
             <h4>EYES</h4>
           </li>
           <li>
-            <a href="/buy/makeup/eyes/eyeshadow">Eye Shadow</a>
+            <a href="/buy/makeup/eyes/eyeshadow">Eye Shadows</a>
           </li>
           <li>
             <a href="/buy/makeup/eyes/eyeliner">Eyeliner</a>
