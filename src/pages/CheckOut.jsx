@@ -16,7 +16,7 @@ export const CheckOut = () => {
   }, []);
 
   return (
-    <Box initialColorMode="light" mt="10">
+    <Box initialColorMode="light" mt="11">
       <Text fontSize="3xl" paddingBottom={10} fontFamily="sans-serif">
         Checkout
       </Text>

@@ -1,9 +1,5 @@
-
 import './App.css';
-
 import AllRoutes from './pages/AllRoutes';
-
-
 function App() {
   return (
     <div className="App">
@@ -11,5 +7,4 @@ function App() {
     </div>
   );
 }
-
 export default App;
