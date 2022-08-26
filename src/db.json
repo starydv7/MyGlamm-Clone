@@ -797,7 +797,198 @@
         "offerPrice": "₹ 671",
         "actualPrice": "₹ 895"
       }
-     ]
+     ],
 
-     
+     "makeupData":[
+      {
+      "id": 1,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/Twstr-(1).jpg",
+      "productName": "Twist It Mascara",
+      "shortDes": "Volumising and Curling Mascara",
+      "offerPrice": "₹ 645",
+      "plusIconSrc": "",
+      "shadeCount": "",
+      "actualPrice": ""
+      },
+      {
+      "id": 2,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/Instabdd-(1).jpg",
+      "productName": "LIT Liquid Matte Lipstick",
+      "shortDes": "Moringa Oil Enriched Matte Lipstick",
+      "offerPrice": "₹ 395",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "100 Shades",
+      "actualPrice": ""
+      },
+      {
+      "id": 3,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1)-(2).jpg",
+      "productName": "SUPERFOODS Kajal",
+      "shortDes": "Long-Wear Smudge-Proof Kajal Infused With Natural Superfood Extracts",
+      "offerPrice": "₹ 296",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "2 Shades",
+      "actualPrice": "₹ 395"
+      },
+      {
+      "id": 4,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/Beat-(1)_1.jpg",
+      "productName": "LIT Radiant Matte Compact",
+      "shortDes": "Illuminating Matte Pressed Powder",
+      "offerPrice": "₹ 371",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "2 Shades",
+      "actualPrice": "₹ 495"
+      },
+      {
+      "id": 5,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/Open-Product-with-side-bar_1.jpg",
+      "productName": "POPxo Makeup - Mini Lip Kit",
+      "shortDes": "Mini Lipstick kit with 3 creamy-matte bold lipsticks",
+      "offerPrice": "₹ 244",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "5 Shades",
+      "actualPrice": "₹ 349"
+      },
+      {
+      "id": 6,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/4-(1)jpg.jpg",
+      "productName": "POPxo Makeup - Nail Kit",
+      "shortDes": "Mini Nail Polish set with 5 chip-resistant glitter nail polishes",
+      "offerPrice": "₹ 186",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "5 Shades",
+      "actualPrice": "₹ 249"
+      },
+      {
+      "id": 7,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/RSEAD-(1).jpg",
+      "productName": "LIT - pH Lip Balm",
+      "shortDes": "Creamy, Hydrating Formula with a Luminous Effect",
+      "offerPrice": "₹ 345",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "5 Shades",
+      "actualPrice": ""
+      },
+      {
+      "id": 8,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/Fakeid-(1).jpg",
+      "productName": "LIT Velvet Matte Liquid Lipstick",
+      "shortDes": "Hydrating, Velvet Matte Liquid Lipcolour",
+      "offerPrice": "₹ 395",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "11 Shades",
+      "actualPrice": ""
+      },
+      {
+      "id": 9,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_5.jpg",
+      "productName": "POPxo 12 Eyeshadow Kit",
+      "shortDes": "Eyeshadow palette with 6 matte and 6 shimmer shades",
+      "offerPrice": "₹ 314",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "2 Shades",
+      "actualPrice": "₹ 449"
+      },
+      {
+      "id": 10,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/Party-parade-(1).jpg",
+      "productName": "Two of Your Kind",
+      "shortDes": "Long-Lasting Gel Finish Nail Enamel Set",
+      "offerPrice": "₹ 221",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "17 Shades",
+      "actualPrice": "₹ 295"
+      },
+      {
+      "id": 11,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/Cosmo-(1).jpg",
+      "productName": "Perfect Curves",
+      "shortDes": "Moisturising Matte Lipstick",
+      "offerPrice": "₹ 486",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "10 Shades",
+      "actualPrice": "₹ 695"
+      },
+      {
+      "id": 12,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/CHRls-(1).jpg",
+      "productName": "K.Play Flavoured Lipstick",
+      "shortDes": "Cherry Flavoured Vitamin E-enriched Creamy Lipstick",
+      "offerPrice": "₹ 545",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "11 Shades",
+      "actualPrice": ""
+      },
+      {
+      "id": 13,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/6-Precision-Liquid-Felt-Tip-Eyeliner-post-1-Black-Diamond.jpg",
+      "productName": "Manish Malhotra Precision Liquid Felt Tip Eyeliner",
+      "shortDes": "Intense Longwear Liquid Eyeliner Pen | Made in Germany",
+      "offerPrice": "₹ 671",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "2 Shades",
+      "actualPrice": "₹ 895"
+      },
+      {
+      "id": 14,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/8-Mascara-post-1-Black_1.jpg",
+      "productName": "Manish Malhotra Mascara",
+      "shortDes": "Classic Volumizing & Defining Mascara",
+      "offerPrice": "₹ 637",
+      "plusIconSrc": "",
+      "shadeCount": "",
+      "actualPrice": "₹ 850"
+      },
+      {
+      "id": 15,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/GRENSR-(1)_1.jpg",
+      "productName": "MyGlamm LIT Glossy Liquid Eyeliner",
+      "shortDes": "Up To 24HR Smudge-Proof Coloured Eyeliner",
+      "offerPrice": "₹ 325",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "4 Shades",
+      "actualPrice": ""
+      },
+      {
+      "id": 16,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_4.jpg",
+      "productName": "POPxo Makeup - Eyeshadow Kit",
+      "shortDes": "Eyeshadow palette with 2 shimmer and 2 matte shades",
+      "offerPrice": "₹ 224",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "2 Shades",
+      "actualPrice": "₹ 299"
+      },
+      {
+      "id": 17,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/Fvr-(1).jpg",
+      "productName": "Tint It Up",
+      "shortDes": "Lip & Cheek Stain",
+      "offerPrice": "₹ 695",
+      "plusIconSrc": "https://www.myglamm.com/images/plus-icon.png",
+      "shadeCount": "3 Shades",
+      "actualPrice": ""
+      },
+      {
+      "id": 18,
+      "prod-img src": "https://files.myglamm.com/site-images/800x800/open-product-side-bar.jpg",
+      "product-name": "POPxo Makeup - Face Kit",
+      "shortDes": "3-in-1 blush, setting powder, and highlighter palette",
+      "offerPrice": "₹ 279",
+      "plusIconSrc": "",
+      "shadeCount": "",
+      "actualPrice": "₹ 399"
+      },
+      {
+      "id": 19,
+      "prodImgSrc": "https://files.myglamm.com/site-images/800x800/BRDF-(1)_1.jpg",
+      "productName": "LIT Brow Definer Pencil",
+      "shortDes": "Define & Sculpt Browliner",
+      "offerPrice": "₹ 495",
+      "plusIconSrc": "",
+      "shadeCount": "",
+      "actualPrice": ""
+      }
+      ]
 }

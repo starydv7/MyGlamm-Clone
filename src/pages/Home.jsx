@@ -105,9 +105,7 @@ const Home = () => {
             />
           </Text>
         </Box>
-        <h1>fkdjn</h1>
         <ProductCarousel />
-        <h1>fkdjn</h1>
       </Box>
       {/*  */}
       <Box>
