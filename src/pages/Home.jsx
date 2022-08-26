@@ -102,6 +102,7 @@ const Home = () => {
         <ProductCarousel />
       </Box>
       {/*  */}
+      {/*  */}
       <Box>
         <Box padding={"10px"}>
           <Text fontSize={"2xl"} fontWeight="bold">
@@ -140,6 +141,9 @@ const Home = () => {
         </Flex>
       </Box>
       {/*  */}
+      {/*  */}
+
+      <h1>lffmf</h1>
       <Box>
         <Box padding={"10px"}>
           <Text fontSize={"2xl"} fontWeight="bold">
