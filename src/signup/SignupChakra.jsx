@@ -59,6 +59,7 @@ const [mobile,setMobile]=useState();
             fontSize="14px"
           >
             *Mobile Number
+
           </Text>
           <Divider borderColor={"black"}></Divider>
           <ModalCloseButton />
@@ -79,9 +80,10 @@ const [mobile,setMobile]=useState();
               Continue
             </Button>  */}
           </ModalFooter>
-          <Flex><Text fontSize={"12px"} margin={"0px 0px 20px 60px"} >By Signing up you agree to our <span  style={{fontWeight:"bold", cursor:"pointer"}} >Term {"&"} Conditions</span></Text></Flex>
+          
+
         </ModalContent>
-      </Modal>
+      </Modal><Flex><Text fontSize={"12px"} margin={"0px 0px 20px 60px"} >By Signing up you agree to our <span  style={{fontWeight:"bold", cursor:"pointer"}} >Term {"&"} Conditions</span></Text></Flex>
     </>
   );
 }
