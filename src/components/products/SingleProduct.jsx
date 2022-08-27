@@ -21,7 +21,7 @@ const singleProduct=data.find((ele)=>{
   }
 })
 // setsingleProduct(single);
-console.log(singleProduct);
+
   // useEffect(() => {
   //  if(data.length===0)
   //  {
@@ -47,13 +47,13 @@ console.log(singleProduct);
         <p className="name">{singleProduct.name}</p>
         <p className="description">{singleProduct.description}</p>
         <div className="rating">
-          <p className="rONE">4.9</p>
+          <p className="rONE">4.8</p>
            <p className="vertical">|</p>
           <p className="noOR">1200 ratings</p>
         </div>
           <div className="price">
           <p className="amount">{`₹ ${singleProduct.offerPrice}`}</p>
-        <p className="pDes">(MRP incl. of all taxes)</p>
+        <p className="pDes">(MRP incl. of all taxe)</p>
           </div>
           <Button bgColor={"black"} onClick={() => addToBag(singleProduct)}>Add To Bag</Button>
       </div>
