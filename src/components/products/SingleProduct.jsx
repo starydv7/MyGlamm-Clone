@@ -55,8 +55,7 @@ console.log(singleProduct);
           <p className="amount">{`₹ ${singleProduct.offerPrice}`}</p>
         <p className="pDes">(MRP incl. of all taxes)</p>
           </div>
-          
-        <Button bgColor={"black"} onClick={() => addToBag(singleProduct)}>Add To Bag</Button>
+          <Button bgColor={"black"} onClick={() => addToBag(singleProduct)}>Add To Bag</Button>
       </div>
    </div>
   );
