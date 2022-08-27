@@ -32,7 +32,7 @@ const {type}=useParams();
               <p className="description">{e["short-des"]}</p>
             </div>
             <div className="shade_wrapper">
-              <div>
+            <div>
                 <img
                   src="https://www.myglamm.com/images/plus-icon.png"
                   alt=""
@@ -48,7 +48,7 @@ const {type}=useParams();
             </div>
           </div>
           </Link>
-                );
+              );
             })}
         </div>
       </div>
