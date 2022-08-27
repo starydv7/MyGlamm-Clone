@@ -27,7 +27,7 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="/buy/bath-and-body/body/soaps">Soap</a>
+            <a href="/buy/bath-and-body/body/soaps">Soaps</a>
           </li>
           <li>
             <a href="/buy/bath-and-body/body/hand-care">Hand Care</a>

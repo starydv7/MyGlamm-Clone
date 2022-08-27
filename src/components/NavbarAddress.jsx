@@ -24,7 +24,7 @@ function NavbarAddress(value) {
    
     >
       <SliderMark value={20} mt='2' ml='2.5' fontSize='sm'>
-      SHOPPING BAG
+      SHOPPING BAGS
       </SliderMark>
       <SliderMark value={40} mt='2' ml='-2.5' fontSize='sm'>
       SELECT ADDRESS
