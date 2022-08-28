@@ -28,7 +28,7 @@ const {type}=useParams();
               <img src={e.img} alt="" />
             </div>
             <div>
-              <p className="name">{e.name}</p>
+              <p className="name">  {e.productName}</p>
               <p className="description">{e["short-des"]}</p>
             </div>
             <div className="shade_wrapper">
