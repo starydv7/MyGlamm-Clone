@@ -13,7 +13,8 @@ const SingleProduct = () => {
   const [bag, setBag] = useState(bagFromLocalStorage);
   const { id } = useParams();
 const dispatch=useDispatch();
-const data=useSelector((state)=>state.app.data)
+const data=useSelector((state)=>state.app.data);
+console.log("1",data)
 const singleProduct=data.find((ele)=>{
   if(ele.id===Number(id))
   {

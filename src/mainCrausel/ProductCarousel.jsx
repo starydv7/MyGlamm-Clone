@@ -57,6 +57,7 @@ export default function ProductCarousel() {
       width={"80%"}
       overflow={"hidden"}
     >
+      <h1>hiiii</h1>
       {/* CSS files for react-slick */}
       <link
         rel="stylesheet"

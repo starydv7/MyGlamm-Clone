@@ -8,9 +8,11 @@ const ProductItem = () => {
 const {type}=useParams();
   const [products, setProducts] = useState([]);
   const dispatch=useDispatch()
-  const {data}=useSelector((state)=>state.app)
-  console.log(data);
-  console.log(type);
+  const {data}=useSelector((state)=>state.app);
+  const {data1} = useSelector((state)=>state);
+  console.log("data1",data1);
+  console.log("data",data);
+  console.log("type",type);
   useEffect(() => {
     dispatch(getdata(type));
   }, []);
