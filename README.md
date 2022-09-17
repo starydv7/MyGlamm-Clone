@@ -29,7 +29,7 @@
 
 4)Styling Navbar - <a href='https://github.com/navneetfw15'>Navneet Singh </a>
 
-5) checkout -  <a href='https://github.com/Rajat-soni-vst-au4'>Rajat Soni </a>
+5)checkout -  <a href='https://github.com/Rajat-soni-vst-au4'>Rajat Soni </a>
 
 
 Netlify Link - https://sordid-worm-afr48i8gz-starydv7.vercel.app/
