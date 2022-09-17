@@ -20,13 +20,16 @@
 
 #We were team of 4 have done 
 
-1)Login,Checkout,Payment - <a href='https://github.com/starydv7'>Pawan Yadav [Team Lead] </a>
+1)Login,Payment - <a href='https://github.com/starydv7'>Pawan Yadav [Team Lead] </a>
+
 
 2)Data,Signup - <a href='https://github.com/tushar07-dev'>Tushar Shelke </a>
 
 3)Footer,HomePage - <a href='https://github.com/vishal1106'>Vishal Gholve </a>
 
 4)Styling Navbar - <a href='https://github.com/navneetfw15'>Navneet Singh </a>
+
+5) checkout -  <a href='https://github.com/Rajat-soni-vst-au4'>Rajat Soni </a>
 
 
 Netlify Link - https://sordid-worm-afr48i8gz-starydv7.vercel.app/
