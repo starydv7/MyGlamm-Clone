@@ -1,3 +1,40 @@
+#Our Plans —
+
+
+1)Breaking the whole project into the smallest divisions according to skills of individual.
+
+
+2)Setting up the particular time for particular module.
+
+
+3)Helping team mate when he/she is not able to finish the task within a specified time.
+
+
+4)Proper commits in Github.
+
+
+5)Along with every standup forming meeting’s as needed.
+
+
+
+
+#We were team of 4 have done 
+
+1)Login,Checkout,Payment - <a href='https://github.com/starydv7'>Pawan Yadav [Team Lead] </a>
+
+2)Data,Signup - <a href='https://github.com/tushar07-dev'>Tushar Shelke </a>
+
+3)Footer,HomePage - <a href='https://github.com/vishal1106'>Vishal Gholve </a>
+
+4)Styling Navbar - <a href='https://github.com/navneetfw15'>Navneet Singh </a>
+
+
+Netlify Link - https://sordid-worm-afr48i8gz-starydv7.vercel.app/
+
+#Teck Stacks-
+
+React, Redux, Chakra-Ui, HTML, CSS, Javascript, GitHub,BootStrap
+
 
 ![image](https://user-images.githubusercontent.com/99542723/180635982-c1c48b2c-fc50-4a0f-93fd-3e3fce86d860.png)
 
