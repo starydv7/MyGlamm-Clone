@@ -74,3 +74,10 @@ border-color: #feb0a9;
 /* Change the background color of the dropdown button when the dropdown content is shown */
 /* .dropdown:hover .dropbtn {background-color: ;} */
 
+@media (max-width:820px) {
+  body{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+  }
+}
