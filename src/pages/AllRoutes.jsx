@@ -11,7 +11,7 @@ import NavbarCheckout from '../components/NavbarCheckout';
 import { Address } from './Address';
 import NavbarAddress from '../components/NavbarAddress';
 import Payment from './Payment';
-import Productpage from './Productpage';
+// import Productpage from './Productpage';
 import { Box, Text } from '@chakra-ui/react';
 import NotFound from './NotFound';
 import Navbarpayment from '../components/NavbarPayment';
