@@ -10,39 +10,22 @@ import {
 } from "@chakra-ui/react";
 import {carouselData} from "../pages/HomePagecss/homepageData"
 import {Link as RouteLink} from 'react-router-dom'
-
-
-
-
-// Here we have used react-icons package for the icons
 import { BiLeftArrowAlt, BiRightArrowAlt } from "react-icons/bi";
 // And react-slick as our Carousel Lib
 import Slider from "react-slick";
 import { StarIcon } from "@chakra-ui/icons";
 
-// Settings for the slider
+
 const settings = {
-  //   dots: true,
+  
   arrows: false,
-  //   fade: true,
-  //   infinite: true,
-  //   autoplay: true,
-  //   speed: 500,
-  //   autoplaySpeed: 2000,
+  
   slidesToShow: 4,
   slidesToScroll: 1,
 };
 
 export default function ProductCarousel() {
-  // As we have used custom buttons, we need a reference variable to
-  // change the state
   const [slider, setSlider] = React.useState();
- 
-
- 
-
-  // These are the breakpoints which changes the position of the
-  // buttons as the screen size changes
   const top = useBreakpointValue({ base: "90%", md: "50%" });
   const side = useBreakpointValue({ base: "10%", md: "0px" });
 
@@ -58,7 +41,7 @@ export default function ProductCarousel() {
       overflow={"hidden"}
     >
       <h1>hiiii</h1>
-      {/* CSS files for react-slick */}
+  
       <link
         rel="stylesheet"
         type="text/css"
@@ -70,7 +53,7 @@ export default function ProductCarousel() {
         type="text/css"
         href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css"
       />
-      {/* Left Icon */}
+     
       <IconButton
         aria-label="left-arrow"
         color={"black"}
@@ -85,10 +68,10 @@ export default function ProductCarousel() {
       >
         <BiLeftArrowAlt />
       </IconButton>
-      {/* Right Icon */}
+ 
       <IconButton
         aria-label="right-arrow"
-        // colorScheme="black"
+     
         color={"black"}
         bgColor={"white"}
         borderRadius="full"
@@ -101,7 +84,7 @@ export default function ProductCarousel() {
       >
         <BiRightArrowAlt />
       </IconButton>
-      {/* Slider */}
+
       <Slider height="400px" {...settings} ref={(slider) => setSlider(slider)}>
         {carouselData.map((item, index) => (
           <RouteLink to="/product/MAKEUP">

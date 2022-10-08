@@ -1,11 +1,11 @@
 import React from 'react';
 import { Box, IconButton, useBreakpointValue } from '@chakra-ui/react';
-// Here we have used react-icons package for the icons
+
 import { BiLeftArrowAlt, BiRightArrowAlt } from 'react-icons/bi';
-// And react-slick as our Carousel Lib
+
 import Slider from 'react-slick';
 
-// Settings for the slider
+
 const settings = {
   dots: true,
   arrows: false,
@@ -19,16 +19,14 @@ const settings = {
 };
 
 export default function CCheck() {
-  // As we have used custom buttons, we need a reference variable to
-  // change the state
+  
   const [slider, setSlider] = React.useState();
 
-  // These are the breakpoints which changes the position of the
-  // buttons as the screen size changes
+  
   const top = useBreakpointValue({ base: '90%', md: '50%' });
   const side = useBreakpointValue({ base: '10%', md: '20px' });
 
-  // These are the images used in the slide
+ 
   const cards = [
     'https://files.myglamm.com/site-images/original/SK-Survey-1920x527_1.jpg',
     'https://live.staticflickr.com/65535/49213180047_a4734ec97e_b.jpg',
@@ -45,7 +43,7 @@ export default function CCheck() {
       marginBottom="-50px"
       width={'full'}
       overflow={'hidden'}>
-      {/* CSS files for react-slick */}
+      
       <link
         rel="stylesheet"
         type="text/css"
@@ -57,7 +55,7 @@ export default function CCheck() {
         type="text/css"
         href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css"
       />
-      {/* Left Icon */}
+    
       <IconButton
         aria-label="left-arrow"
         color={"black"}
@@ -71,10 +69,10 @@ export default function CCheck() {
         onClick={() => slider?.slickPrev()}>
         <BiLeftArrowAlt />
       </IconButton>
-      {/* Right Icon */}
+     
       <IconButton
         aria-label="right-arrow"
-        // colorScheme="black"
+       
         color={"black"}
         bgColor={"white"}
         borderRadius="full"
@@ -86,7 +84,7 @@ export default function CCheck() {
         onClick={() => slider?.slickNext()}>
         <BiRightArrowAlt />
       </IconButton>
-      {/* Slider */}
+  
       <Slider {...settings} ref={(slider) => setSlider(slider)}>
         {cards.map((url, index) =>
         (
