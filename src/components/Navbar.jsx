@@ -37,8 +37,8 @@ console.log(isAuth);
       <Spacer/>
       <Flex justifyContent={"space-between"} width="100px" >
 
-      {/* <Box  cursor={"pointer"} > <FaShoppingBag style={{color: 'black', border:'1px', fontSize: '25px'}}/> </Box>
-      <Box cursor={"pointer"} > <AiOutlineUser style={{color: 'black', fontSize: '25px'}}/> </Box> */}
+      <Box  cursor={"pointer"} > <FaShoppingBag style={{color: 'black', border:'1px', fontSize: '25px'}}/> </Box>
+      <Box cursor={"pointer"} > <AiOutlineUser style={{color: 'black', fontSize: '25px'}}/> </Box>
 
       <Box onClick={()=>navigate("/mybag")}cursor={"pointer"} > <FaShoppingBag style={{color: 'black', border:'1px', fontSize: '25px'}}/> </Box>
       <Box cursor={"pointer"} > {isAuth ? <Profile/>:<SignupChakra/>} </Box>
