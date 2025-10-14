@@ -797,6 +797,139 @@
         "offerPrice": "₹ 671",
         "actualPrice": "₹ 895"
       }
-     ]
-
+     ],
+    "products": [
+      {
+        "id": 1,
+        "image": "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_2.jpg",
+        "name": "POPxo Makeup - Mini Lip Kit",
+        "description": "Mini Lipstick kit with 3 creamy-matte nude lipsticks",
+        "category": "lipstick",
+        "offerPrice": "₹ 244",
+        "actualPrice": "₹ 349",
+        "inStock": true,
+        "rating": 4.6
+      },
+      {
+        "id": 2,
+        "image": "https://files.myglamm.com/site-images/800x800/Cosmo-(1).jpg",
+        "name": "Perfect Curves",
+        "description": "Moisturising Matte Lipstick",
+        "category": "lipstick",
+        "offerPrice": "₹ 486",
+        "actualPrice": "₹ 695",
+        "inStock": true,
+        "rating": 4.7
+      },
+      {
+        "id": 3,
+        "image": "https://files.myglamm.com/site-images/800x800/CHRls-(1).jpg",
+        "name": "K.Play Flavoured Lipstick",
+        "description": "Cherry Flavoured Vitamin E-enriched Creamy Lipstick",
+        "category": "lipstick",
+        "offerPrice": "₹ 545",
+        "actualPrice": "",
+        "inStock": false,
+        "rating": 4.3
+      },
+      {
+        "id": 4,
+        "image": "https://files.myglamm.com/site-images/800x800/Hi-Shine-Post-1-Regal-Crimson_1.jpg",
+        "name": "Manish Malhotra Hi-Shine Lipstick",
+        "description": "Lightweight, Long-wear Lipsticks",
+        "category": "lipstick",
+        "offerPrice": "₹ 712",
+        "actualPrice": "₹ 950",
+        "inStock": true,
+        "rating": 4.8
+      },
+      {
+        "id": 5,
+        "image": "https://files.myglamm.com/site-images/800x800/Nudemave-(1).jpg",
+        "name": "POSE HD Lipstick",
+        "description": "HD Long-wear Matte Lipstick",
+        "category": "lipstick",
+        "offerPrice": "₹ 599",
+        "actualPrice": "",
+        "inStock": true,
+        "rating": 4.4
+      },
+      {
+        "id": 6,
+        "image": "https://files.myglamm.com/site-images/800x800/Facewash_3.jpg",
+        "name": "MyGlamm WIPEOUT Germ Killing Face Wash",
+        "description": "Tea Tree Oil & Vitamin E-infused Face Wash",
+        "category": "skincare",
+        "offerPrice": "₹ 89",
+        "actualPrice": "₹ 119",
+        "inStock": true,
+        "rating": 4.5
+      },
+      {
+        "id": 7,
+        "image": "https://files.myglamm.com/site-images/800x800/Body-wash_4.jpg",
+        "name": "MyGlamm WIPEOUT Germ Killing Body Wash",
+        "description": "Tea Tree Oil-infused Skin-regenerating Body Wash",
+        "category": "skincare",
+        "offerPrice": "₹ 169",
+        "actualPrice": "₹ 199",
+        "inStock": true,
+        "rating": 4.2
+      },
+      {
+        "id": 8,
+        "image": "https://files.myglamm.com/site-images/800x800/Artboard-1-(1).jpg",
+        "name": "MyGlamm SUPERFOODS Onion & Moringa Shampoo",
+        "description": "For Hair Fall Control",
+        "category": "shampoo",
+        "offerPrice": "₹ 239",
+        "actualPrice": "₹ 299",
+        "inStock": true,
+        "rating": 4.1
+      },
+      {
+        "id": 9,
+        "image": "https://files.myglamm.com/site-images/800x800/SHP-(1).jpg",
+        "name": "MyGlamm SUPERFOODS Cacao, Coffee & Coconut Shampoo",
+        "description": "Anti-Dandruff & Moisturising Hair Cleanser",
+        "category": "shampoo",
+        "offerPrice": "₹ 319",
+        "actualPrice": "₹ 399",
+        "inStock": true,
+        "rating": 4.0
+      },
+      {
+        "id": 10,
+        "image": "https://files.myglamm.com/site-images/800x800/Beach-bum-(1)_1.png",
+        "name": "POPxo Beach Bum Ultra-Light Sunscreen Spray SPF 50 PA+++ 50ml",
+        "description": "Sunscreen For Girls On The Go",
+        "category": "sunscreen",
+        "offerPrice": "₹ 297",
+        "actualPrice": "₹ 349",
+        "inStock": true,
+        "rating": 4.3
+      },
+      {
+        "id": 11,
+        "image": "https://files.myglamm.com/site-images/800x800/GGL1-(4)_1.png",
+        "name": "POPxo Glow Goals Illuminating Sunscreen SPF 30 PA+++ 30g",
+        "description": "Sunscreen For Sun-chasers",
+        "category": "sunscreen",
+        "offerPrice": "₹ 349",
+        "actualPrice": "",
+        "inStock": false,
+        "rating": 4.1
+      },
+      {
+        "id": 12,
+        "image": "https://files.myglamm.com/site-images/800x800/6-Precision-Liquid-Felt-Tip-Eyeliner-post-1-Black-Diamond.jpg",
+        "name": "Manish Malhotra Precision Liquid Felt Tip Eyeliner",
+        "description": "Intense Longwear Liquid Eyeliner Pen | Made in Germany",
+        "category": "eyeliner",
+        "offerPrice": "₹ 671",
+        "actualPrice": "₹ 895",
+        "inStock": true,
+        "rating": 4.6
+      }
+    ]
 }
